@@ -1,4 +1,4 @@
-# Batch 3 — 快速筛选（21只）
+# Batch 3 — 快速筛选（30只）
 Date: 2026-04-09
 注：基于公开知识库评估，非最新实时数据。标注 [需完整分析] 的股票值得用完整Three Engines框架深入研究。
 
@@ -189,3 +189,49 @@ ZS, FTNT, CYBR, SNOW, VEEV, AAPL, ABNB, SPOT, UBER
 
 ### 不推荐
 PATH (AI颠覆), PINS (增长停滞), COIN (纯周期), MNSO (护城河弱)
+
+---
+
+## 补充筛选（6只）
+
+### S — SentinelOne | ~$20 | MCap ~$6B
+- Gate 0: **PASS**（圈一，端点安全）
+- E1快评: Moat 2/5, Economics 2/5, Growth 3/5, Competition 2/5, Anti 4/5 = **13/25**
+- 估值: P/S ~5x → 便宜但有原因
+- Signal: **NO SIGNAL** — E1=13（Watchlist）。在CRWD和PANW的阴影下生存艰难，持续亏损，增速放缓到~30%但规模太小
+- 一句话: 安全赛道的第三选择，被CRWD/PANW挤压
+
+### U — Unity Technologies | ~$18 | MCap ~$7B
+- Gate 0: **PASS**（圈一，游戏引擎/3D平台）
+- E1快评: Moat 3/5, Economics 1/5, Growth 2/5, Competition 3/5, Anti 3/5 = **12/25**
+- 估值: P/S ~3x → 便宜但公司在困境中
+- Signal: **NO SIGNAL** — E1=12。管理层动荡（CEO换人）、定价争议导致开发者反感、收入下滑。与Unreal Engine竞争处于劣势
+- 一句话: 曾经有潜力但管理层摧毁了信任，不碰
+
+### TTWO — Take-Two Interactive | ~$180 | MCap ~$30B
+- Gate 0: **PASS**（圈一，消费应用/游戏）
+- E1快评: Moat 4/5, Economics 3/5, Growth 3/5, Competition 4/5, Anti 3/5 = **17/25**
+- 估值: P/E ~25x → 合理
+- Signal: **WATCH** — GTA VI是2025-2026最大的游戏事件，GTA Online的持续收入模式优秀。但游戏行业周期性强，依赖大作
+- 一句话: GTA VI如果成功将推动数年增长，但赌单一产品风险高
+
+### EA — Electronic Arts | ~$130 | MCap ~$35B
+- Gate 0: **PASS**（圈一，消费应用/游戏）
+- E1快评: Moat 3/5, Economics 4/5, Growth 2/5, Competition 3/5, Anti 3/5 = **15/25**
+- 估值: P/E ~15x → 偏便宜
+- Signal: **WATCH** — FIFA/Madden等体育游戏有版权护城河，FCF强劲，但增速接近零。P/E 15x对稳定现金流业务不贵
+- 一句话: 体育游戏版权垄断+高FCF，但零增长
+
+### TER — Teradyne | ~$80 | MCap ~$13B
+- Gate 0: **PASS（边缘）**（圈一AI机器人——Teradyne拥有Universal Robots协作机器人）
+- E1快评: Moat 3/5, Economics 3/5, Growth 3/5, Competition 3/5, Anti 3/5 = **15/25**
+- 估值: P/E ~25x → 合理
+- Signal: **WATCH** — 半导体测试设备+协作机器人双业务，周期性强。Universal Robots是协作机器人先驱但增速不如预期
+- 一句话: 半导体周期+机器人双主题，但两个都不是第一名
+
+### DOCS — Doximity | ~$40 | MCap ~$8B
+- Gate 0: **PASS（边缘）**（圈一SaaS但垂直于医疗——用户对医药行业不太熟悉）
+- E1快评: Moat 4/5, Economics 4/5, Growth 3/5, Competition 4/5, Anti 4/5 = **19/25**
+- 估值: P/E ~30x → 合理
+- Signal: **WATCH [需完整分析]** — 医生社交网络+远程医疗平台，80%+的美国医生使用，网络效应强。但TAM受限于医疗广告市场
+- 一句话: 医生版LinkedIn，护城河深但市场小
